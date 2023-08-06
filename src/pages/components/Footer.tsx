@@ -16,16 +16,16 @@ const FooterComponent = () => {
         <Footer style={footerStyle}>
             <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
                 <img src={logo} alt="Logo" style={{ width: '50px', marginRight: '10px' }} />
-                <p style={{ marginBottom: '20px' }}>Developed by Laxus</p>
+                <p style={{ marginBottom: '20px' }}>Developed by Dungx</p>
             </div>
             <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
                 <p style={{ marginRight: '20px' }}>Contact:</p>
-                <p style={{ marginRight: '20px' }}>Phone: +84862325xxx</p>
-                <p style={{ marginRight: '20px' }}>Email: laxus2301@gmail.com</p>
+                <p style={{ marginRight: '20px' }}>Phone: +84988328867</p>
+                <p style={{ marginRight: '20px' }}>Email: Dung1811@gmail.com</p>
             </div>
             <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
                 <p style={{ marginRight: '20px' }}>Address:</p>
-                <p style={{ marginRight: '20px' }}>103, Vuc hamlet, Di Trach, Hoai Duc, Hanoi</p>
+                <p style={{ marginRight: '20px' }}>Trung Văn, Nam Từ Liêm, Hà Nội</p>
             </div>
         </Footer>
     );
