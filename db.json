@@ -1,0 +1,134 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "IPhone 14 Pro Max 128GB I Chính Hãng",
+      "price": "27150000",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/t/_/t_m_18.png",
+      "description": " Màn hình Dynamic Island - Sự biến mất của màn hình tai thỏ thay thế bằng thiết kế viên thuốc, OLED 6,7 inch, hỗ trợ always-on display"
+    },
+    {
+      "id": 2,
+      "name": "Xiaomi 11T",
+      "price": "10990000",
+      "description": "Li-Po 5000 mAh Sạc nhanh 67W, đầy pin trong 36ph (quảng cáo)",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/x/i/xiaomi-mi-11t-1_1.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Xiaomi Redmi Note 12 Pro 5G",
+      "price": "9190000",
+      "description": "Li-Po 5000mAh Sạc nhanh 67W, 100% trong 46 phút (quảng cáo)",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/g/t/gtt7766.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Xiaomi 13 Lite",
+      "price": "9890000",
+      "description": " Hệ thống camera hàng đầu - Camera kép selfie cùng khung hình động đem lại những bức ảnh kiệt tác",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/1/3/13_liteee.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Xiaomi 12T Pro",
+      "price": "15490000",
+      "description": " Kiến tạo siêu khoảnh khắc - Hệ thống camera 200MP, chống rung quang học OIS và ống kính 8P",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/x/i/xiaomi-12t-xanh_2.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Xiaomi 13 8GB 256GB",
+      "price": "17990000 ",
+      "description": " Ống kính Leica chuyên nghiệp - 2 phong cách nhiếp ảnh vintage cùng hiện đại sống động giúp bạn tha hồ lựa chọn",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/p/m/pms_1670745783.80967984.png"
+    },
+    {
+      "id": 7,
+      "name": "Xiaomi Mi 10S (99.9% - Kèm sạc 33W)",
+      "price": "5850000",
+      "description": "Li-Po 4780 mAh Sạc nhanh 33W, 100% trong 56 phút (Quảng cáo) Sạc nhanh không dây 30W, 100% trong 69 phút (Quảng cáo) Sạc ngược không dây 10W Power Delivery 3.0, Quick Charge 4+",
+      "image": "https://cdn.mobilecity.vn/mobilecity-vn/images/2021/07/w300/xiaomi-mi-10s-trang-1.png.webp"
+    },
+    {
+      "id": 8,
+      "name": "Xiaomi 13 Pro 12GB 256GB",
+      "price": "24090000",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/1/3/13_prooo.jpg",
+      "description": " Ống kính nhiếp ành Leica chuyên nghiệp - Cảm biến máy ảnh lớn 1 inch, chụp chân dung và chụp đêm siêu rõ nét"
+    },
+    {
+      "id": 9,
+      "name": "Samsung Galaxy S21 Ultra 5G 16GB 512GB",
+      "price": "40990000",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/03_2021/thumbs/600_galaxy_s21_ultra_5g_128gb_xtmobile.jpg",
+      "description": "Màn hình Dynamic AMOLED 2X 6.8 inch - Camera zoom quang học 10x - Chip Exynos 2100 5G"
+    },
+    {
+      "id": 10,
+      "name": "iPhone 13 Pro Max 5G 1TB",
+      "price": "51490000",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/3/_/3_51_1_10.jpg",
+      "description": "Màn hình OLED 6.7 inch - Hệ thống camera chuyên nghiệp - Chip A15 Bionic 5G"
+    },
+    {
+      "id": 11,
+      "name": "Xiaomi Mi 12 12GB 512GB",
+      "price": "28990000",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/g/t/gtt7766.jpg",
+      "description": "Màn hình AMOLED 6.7 inch - Camera chính 108 MP - Chip Snapdragon 898 5G"
+    },
+    {
+      "id": 12,
+      "name": "OPPO Find X4 Pro 12GB 512GB",
+      "price": "34490000",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/n/2/n2_flip_-_combo_product_-_black.png",
+      "description": "Màn hình AMOLED 6.7 inch - Camera zoom quang học 10x - Chip Snapdragon 8 Gen 1 5G"
+    },
+    {
+      "id": 13,
+      "name": "Google Pixel 6 Pro 12GB 512GB",
+      "price": "36990000",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/s/2/s23-ultra-den_2.png",
+      "description": "Màn hình P-OLED 6.7 inch - Camera chính 50 MP - Chip Tensor 5G"
+    },
+    {
+      "id": 14,
+      "name": "Realme GT Neo2 12GB 512GB",
+      "price": "13990000",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/r/e/realme-gt-neo2-6k1-099.jpg",
+      "description": "Màn hình AMOLED 6.62 inch - Camera chính 64 MP - Chip Snapdragon 870 5G"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Xiaomi"
+    },
+    {
+      "id": 2,
+      "name": "SmartPhone"
+    },
+    {
+      "id": 3,
+      "name": "Fast Charging"
+    }
+  ],
+  "users": [
+    {
+      "name": "Laxus",
+      "password": "123456",
+      "rePassword": "123456",
+      "email": "dung1811@gmail.com",
+      "tel": "0862325011",
+      "id": 1
+    },
+    {
+      "name": "Dungx",
+      "password": "123456",
+      "rePassword": "123456",
+      "email": "tiendung18112002@gmail.com",
+      "tel": "0987654321",
+      "id": 1
+    }
+  ]
+}
